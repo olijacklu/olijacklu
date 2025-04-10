@@ -4,22 +4,22 @@ I am a Data Scientist with experience in machine learning, anomaly detection, an
 
 ## 🔬 My Projects
 
-### [ML-SUPERB-Project](https://github.com/oliver-jack/ML-SUPERB-Project)
+### [ML-SUPERB-Project](https://github.com/olijacklu/ML-SUPERB-Project)
 Fine-tuning & evaluating pre-trained audio models (HuBERT & XLSR) on the ML-SUPERB dataset for monolingual and multilingual speech recognition tasks.
 
-### [PruningOfExperts-Project](https://github.com/oliver-jack/PruningOfExperts-Project)
+### [PruningOfExperts-Project](https://github.com/olijacklu/PruningOfExperts-Project)
 Implementation for the final project of the LLMs class at MVA, focusing on post-training pruning of MoE models.
 
-### [AnomalyDetection-Project](https://github.com/oliver-jack/AnomalyDetection-Project)
+### [AnomalyDetection-Project](https://github.com/olijacklu/AnomalyDetection-Project)
 Evaluation of various anomaly detection techniques on time series data & implementation of tools for benchmarking, ensemble creation, & performance analysis.
 
-### [RL-HIV-Project](https://github.com/oliver-jack/RL-HIV-Project)
+### [RL-HIV-Project](https://github.com/olijacklu/RL-HIV-Project)
 Implementation of a reinforcement learning solution for HIV treatment optimization using Fitted Q-Iteration (FQI) with XGBoost regression models.
 
-### [K-MeansPCA-Project](https://github.com/oliver-jack/K-MeansPCA-Project)
+### [K-MeansPCA-Project](https://github.com/olijacklu/K-MeansPCA-Project)
 Implementation & analysis of the PCA-based K-Means Clustering method proposed in the paper "K-mean Clustering via Principcal Component Analysis" by Ding and He (2004).
 
-### [LoRA-Project](https://github.com/oliver-jack/LoRA-Project)
+### [LoRA-Project](https://github.com/olijacklu/LoRA-Project)
 Fine-tuning RoBERTa using Low-Rank Adaptation (LoRA) on different datasets.
 
 ## 💼 Experience
