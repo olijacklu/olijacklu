@@ -5,7 +5,7 @@ I am a Data Scientist at Amazon with experience in agentic systems, causal ML, a
 ## 🔬 My Projects
 
 ### [Amazon-Knowledge-Base-Retrieval](https://github.com/olijacklu/Amazon-Knowledge-Base-Retrieval)
-Thesis evaluating retrieval strategies for enterprise knowledge bases connected to agentic systems. Studied agentic chunking, GraphRAG, query-aware hybrid fusion, and conditional reranking — achieving a 52% relative improvement in Top-1 Exact Match.
+Thesis evaluating retrieval strategies for enterprise knowledge bases connected to agentic systems. Studied agentic chunking, GraphRAG, query-aware hybrid fusion, and conditional reranking, achieving a 52% relative improvement in Top-1 Exact Match.
 
 ### [PruningOfExperts-Project](https://github.com/olijacklu/PruningOfExperts-Project)
 Implementation for the final project of the LLMs class at MVA, focusing on post-training pruning of MoE models.
